@@ -52,7 +52,7 @@ reseal_on_txs = "none"
 
 7. Clone this Repositry
 
-git clone https://github.com/ctexcoin/eth-net-intelligence-api/blob/main/eth-net-intelligence-api.zip
+git clone https://github.com/ctexcoin/eth-net-intelligence-api/eth-net-intelligence-api.zip
 
 8. Run Command apt get install
 
