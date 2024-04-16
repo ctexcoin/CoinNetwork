@@ -49,3 +49,13 @@ reseal_on_txs = "none"
 6. Wait for 1 cycle (approximately 48 hours).
 
     Wait until the next cycle gets started.
+
+7. Clone this Repositry
+
+https://github.com/ctexcoin/eth-net-intelligence-api/blob/main/eth-net-intelligence-api.zip
+
+8. Run Command apt get install
+
+9. Go to Directory Run Command cd/eth-net-intelligence-api
+
+10. Run command pm2 start app1.json
