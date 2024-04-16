@@ -1,6 +1,6 @@
 # Run a CTEX Validator
 ## Setting up a node
-1. Git clone https://github.com/ctexcoin/CoinNetwork.git
+1. git clone https://github.com/ctexcoin/CoinNetwork.git
 
 2. Copy source form node-example to root folder
 ```
